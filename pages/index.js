@@ -44,7 +44,7 @@ const Home = () => {
             <h1>Have chat-GPT ask you questions based on any topic</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Provide a paragraph to chat-gpt and it'll generate questions based on that</h2>
+            <h2>Provide a paragraph/keyword to chat-gpt and it'll generate questions based on that</h2>
           </div>
         </div>
         <div className="prompt-container">
