@@ -41,10 +41,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Have chat-GPT ask you questions based on any topic</h1>
+            <h1>Have Trivia-GPT ask you questions based on any topic</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Provide a paragraph/keyword to chat-gpt and it'll generate questions based on that</h2>
+            <h2>Provide a paragraph/keyword to Trivia-gpt and it'll generate questions based on that</h2>
           </div>
         </div>
         <div className="prompt-container">
