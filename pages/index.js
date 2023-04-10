@@ -76,6 +76,10 @@ const Home = () => {
               </div>
             </div>
           )}
+
+          <div className="char_num">
+            <h3>The number of characters in the text are: {userInput.length}</h3>
+          </div>
         </div>
 
       </div>
